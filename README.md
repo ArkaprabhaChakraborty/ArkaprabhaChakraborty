@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ArkaprabhaChakraborty&count_private=true&theme=cobalt)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ArkaprabhaChakraborty&count_private=true&theme=tokyonight)
 <!--
 **ArkaprabhaChakraborty/ArkaprabhaChakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
