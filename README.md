@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArkaprabhaChakraborty)](https://github.com/ryo-ma/github-profile-trophy)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ArkaprabhaChakraborty&count_private=true&theme=tokyonight)
   
   
